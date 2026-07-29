@@ -1,43 +1,43 @@
-# Olá, eu sou o Alexandre Saldanha
+# Olá, eu sou o Alexandre Saldanha 👋
 
-Economista e Pesquisador focado em **Economia Aplicada**, **Produção de Estatísticas Oficiais** e **Análise de dados amostrais complexos**.
+Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
 
-Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
+Atualmente sou **Bolsista CNPq no IBGE** (Pesquisa de Inovação – PINTEC 2025), atuando na modelagem, crítica e consistência de microdados de inovação empresarial.
 
 ---
 
 ### 🎓 Formação Acadêmica
-* **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
+* **Mestrado em População, Território e Estatísticas Públicas** | ENCE / IBGE
 * **Especialização em Data Science & Analytics** | PUC-Rio
 * **Bacharelado em Ciências Econômicas** | UFRRJ
 
 ---
 
 ### 🔬 Agenda de Pesquisa & Áreas de Atuação
-* **Economia Aplicada:** Consumo das Famílias, Bem-estar, Desigualdade, Economia Demográfica.
-* **Avaliação de Impacto:** Econometria aplicada a microdados e Modelagem Estatística.
-* **Grandes Bases de Dados:** Manipulação e análise estatística de dados domiciliares e administrativos públicos (`POF`, `PNAD Continuous`, `Censo Demográfico` e registros empresariais).
-* **Trajetória Institucional:** Passagens por **IPEA** (Economia da Saúde/Conjuntura), **FGV IBRE** (Pesquisas Amostrais/Indicadores) e **IBGE**.
+* **Macroeconomia & Demografia:** Impactos macroeconômicos e distributivos de choques demográficos sobre a Demanda Agregada, dinâmica do consumo familiar, inflação (IPCA) e mercado de trabalho.
+* **Modelagem Quantitativa Avançada:** Articulação de heterogeneidade dos agentes e restrições de liquidez com métodos econométricos aplicados.
+* **Microdados & Grandes Bases Publicas:** Análise e tratamento de bases domiciliares e administrativas de grande porte (`POF`, `PNAD Contínua`, `Censo Demográfico` e registros empresariais).
+* **Trajetória Institucional:** Sólida experiência em órgãos do ecossistema de estatísticas e pesquisas públicas do Brasil, com passagens pelo **IPEA** (Economia da Saúde e Conjuntura Macroeconômica), **FGV IBRE** (Indicadores Econômicos) e **IBGE**.
 
 ---
 
-### 🛠️ Stack Técnica & Ferramentas
+### 🛠️ Stack Técnica & Ferramental
 * **Linguagens & Análise:** R, Python, SQL, SAS
-* **Estatística & Métodos:** Amostragem Complexa, Econometria, Inferência Causal, Modelagem Preditiva
+* **Modelagem & Métodos:** Econometria Aplicada, Amostragem Complexa, Análise de Cenários Macroeconômicos, Parecerismo Técnico
 * **Cloud & Big Data:** Google Cloud Platform (GCP / BigQuery)
-* **Outras Ferramentas:** Git, GitHub, Jupyter, Colab, RStudio
+* **Ferramentas de Desenvolvimento:** Git, GitHub, Jupyter, RStudio
 
 ---
 
 ### 🚀 Projetos & Repositórios de Destaque
-*(Aqui você pode colocar os links para os repositórios que for criando)*
+*(Substitua os links abaixo pelos seus repositórios reais conforme for criando)*
 
-* 📊 **[Insegurança Alimentar & Perfil Socioeconômico (POF/IBGE)](https://github.com/alexandrepsaldanha/NOME-DO-SEU-REPOSITORIO):** Análise econométrica e espacial dos dados da Pesquisa de Orçamentos Familiares.
-* 📐 **[Metodologia e Técnicas de Amostragem Complexa](https://github.com/alexandrepsaldanha/NOME-DO-SEU-REPOSITORIO):** Scripts e rotinas em R/Python aplicados a planos amostrais de pesquisas públicas.
+* 📊 **[Insegurança Alimentar & Perfil Socioeconômico (POF/IBGE)](https://github.com/alexandrepsaldanha/NOME-DO-REPOSITORIO):** Análise econométrica e quantitativa dos microdados da Pesquisa de Orçamentos Familiares.
+* 📐 **[Técnicas de Amostragem & Inferência Estatística](https://github.com/alexandrepsaldanha/NOME-DO-REPOSITORIO):** Implementação de rotinas para planos amostrais complexos de pesquisas públicas.
 
 ---
 
-### 📫 Contato & Redes
-* **LinkedIn:** (https://www.linkedin.com/in/alexandre-saldanha-202a8592/)
-* **Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(altamente recomendado para a área acadêmica/pesquisa)*
-* **E-mail:** alexandresaldanha711@gmail.com
+### 📫 Contato & Conexões
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(insira seu link)*
+* **Currículo Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(insira seu link)*
+* **E-mail:** seu.email@exemplo.com
