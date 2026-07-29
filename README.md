@@ -14,7 +14,7 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 ---
 
 ### 🔬 Agenda de Pesquisa & Áreas de Atuação
-* **Economia Aplicada:** Consumo das Famílias, Demanda, Economia Demográfica.
+* **Economia Aplicada:** Consumo das Famílias, Bem-estar, Desigualdade, Economia Demográfica.
 * **Avaliação de Impacto:** Econometria aplicada a microdados e Modelagem Estatística.
 * **Grandes Bases de Dados:** Manipulação e análise estatística de dados domiciliares e administrativos públicos (`POF`, `PNAD Continuous`, `Censo Demográfico` e registros empresariais).
 * **Trajetória Institucional:** Passagens por **IPEA** (Economia da Saúde/Conjuntura), **FGV IBRE** (Pesquisas Amostrais/Indicadores) e **IBGE**.
@@ -38,6 +38,6 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 ---
 
 ### 📫 Contato & Redes
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alexandre-saldanha-202a8592/)
+* **LinkedIn:** (https://www.linkedin.com/in/alexandre-saldanha-202a8592/)
 * **Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(altamente recomendado para a área acadêmica/pesquisa)*
-* **E-mail:** seu.email@exemplo.com
+* **E-mail:** alexandresaldanha711@gmail.com
