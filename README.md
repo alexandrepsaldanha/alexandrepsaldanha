@@ -7,25 +7,25 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 ---
 
 ### 🎓 Formação Acadêmica
-* **Mestrado em População, Território e Estatísticas Públicas** | ENCE / IBGE
+* **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
 * **Especialização em Data Science & Analytics** | PUC-Rio
 * **Bacharelado em Ciências Econômicas** | UFRRJ
 
 ---
 
 ### 🔬 Agenda de Pesquisa & Áreas de Atuação
-* **Macroeconomia & Demografia:** Impactos macroeconômicos e distributivos de choques demográficos sobre a Demanda Agregada, dinâmica do consumo familiar, inflação (IPCA) e mercado de trabalho.
-* **Modelagem Quantitativa Avançada:** Articulação de heterogeneidade dos agentes e restrições de liquidez com métodos econométricos aplicados.
-* **Microdados & Grandes Bases Publicas:** Análise e tratamento de bases domiciliares e administrativas de grande porte (`POF`, `PNAD Contínua`, `Censo Demográfico` e registros empresariais).
-* **Trajetória Institucional:** Sólida experiência em órgãos do ecossistema de estatísticas e pesquisas públicas do Brasil, com passagens pelo **IPEA** (Economia da Saúde e Conjuntura Macroeconômica), **FGV IBRE** (Indicadores Econômicos) e **IBGE**.
+* **Macroeconomia & Demografia:** Impactos macroeconômicos e distributivos de choques demográficos sobre a Demanda Agregada, dinâmica do consumo familiar e inflação (IPCA).
+* **Modelagem Quantitativa:** Articulação de heterogeneidade dos agentes e restrições de liquidez com métodos econométricos aplicados.
+* **Microdados & Grandes Bases Publicas:** Análise e tratamento de bases domiciliares e administrativas (`POF`, `PNAD Contínua`, `Censo Demográfico` e registros empresariais).
+* **Trajetória Institucional:** Experiência em órgãos do ecossistema de estatísticas e pesquisas públicas do Brasil, com passagens pelo **IPEA** (Economia da Saúde e Conjuntura Macroeconômica), **FGV IBRE** (Indicadores Econômicos) e **IBGE**.
 
 ---
 
 ### 🛠️ Stack Técnica & Ferramental
 * **Linguagens & Análise:** R, Python, SQL, SAS
-* **Modelagem & Métodos:** Econometria Aplicada, Amostragem Complexa, Análise de Cenários Macroeconômicos, Parecerismo Técnico
+* **Modelagem & Métodos:** Econometria Aplicada, Amostragem Complexa, Análise de Cenários Macroeconômicos
 * **Cloud & Big Data:** Google Cloud Platform (GCP / BigQuery)
-* **Ferramentas de Desenvolvimento:** Git, GitHub, Jupyter, RStudio
+* **Ferramentas de Desenvolvimento:** GitHub, Jupyter, Colab, RStudio
 
 ---
 
@@ -38,6 +38,6 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 ---
 
 ### 📫 Contato & Conexões
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(insira seu link)*
+* **LinkedIn:** https://www.linkedin.com/in/alexandre-saldanha-202a8592/
 * **Currículo Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(insira seu link)*
-* **E-mail:** seu.email@exemplo.com
+* **E-mail:** alexandresaldanha711@gmail.com
