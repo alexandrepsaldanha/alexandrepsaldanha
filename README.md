@@ -1,21 +1,21 @@
-# Olá, eu sou o Alexandre Saldanha 👋
+# Olá, eu sou o Alexandre Saldanha
 
-Economista e Pesquisador focado em **Economia Aplicada**, **Inferência Causal** e **Análise de Microdados de Grande Porte**.
+Economista e Pesquisador focado em **Economia Aplicada**, **Produção de Estatísticas Oficiais** e **Análise de dados amostrais complexos**.
 
-Atualmente sou **Bolsista CNPq no IBGE** (Pesquisa de Inovação – PINTEC 2025), atuando na crítica, consistência e modelagem quantitativa de dados empresariais.
+Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
 
 ---
 
 ### 🎓 Formação Acadêmica
-* **Mestrado em População, Território e Estatísticas Públicas** | ENCE / IBGE
+* **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
 * **Especialização em Data Science & Analytics** | PUC-Rio
 * **Bacharelado em Ciências Econômicas** | UFRRJ
 
 ---
 
 ### 🔬 Agenda de Pesquisa & Áreas de Atuação
-* **Economia Aplicada & Social:** Economia Demográfica, Transição Demográfica, Consumo Familiar e Mercado de Trabalho.
-* **Avaliação de Impacto:** Métodos Econométricos Avançados de Inferência Causal e Modelagem Quantitativa.
+* **Economia Aplicada:** Consumo das Famílias, Demanda, Economia Demográfica.
+* **Avaliação de Impacto:** Econometria aplicada a microdados e Modelagem Estatística.
 * **Grandes Bases de Dados:** Manipulação e análise estatística de dados domiciliares e administrativos públicos (`POF`, `PNAD Continuous`, `Censo Demográfico` e registros empresariais).
 * **Trajetória Institucional:** Passagens por **IPEA** (Economia da Saúde/Conjuntura), **FGV IBRE** (Pesquisas Amostrais/Indicadores) e **IBGE**.
 
@@ -25,7 +25,7 @@ Atualmente sou **Bolsista CNPq no IBGE** (Pesquisa de Inovação – PINTEC 2025
 * **Linguagens & Análise:** R, Python, SQL, SAS
 * **Estatística & Métodos:** Amostragem Complexa, Econometria, Inferência Causal, Modelagem Preditiva
 * **Cloud & Big Data:** Google Cloud Platform (GCP / BigQuery)
-* **Outras Ferramentas:** Git, GitHub, Jupyter, RStudio
+* **Outras Ferramentas:** Git, GitHub, Jupyter, Colab, RStudio
 
 ---
 
@@ -38,6 +38,6 @@ Atualmente sou **Bolsista CNPq no IBGE** (Pesquisa de Inovação – PINTEC 2025
 ---
 
 ### 📫 Contato & Redes
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil) *(adicione seu link)*
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alexandre-saldanha-202a8592/)
 * **Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(altamente recomendado para a área acadêmica/pesquisa)*
 * **E-mail:** seu.email@exemplo.com
