@@ -2,7 +2,7 @@
 
 Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
 
-Atualmente sou **Bolsista CNPq no IBGE** (Pesquisa de Inovação – PINTEC 2025), atuando na modelagem, crítica e consistência de microdados de inovação empresarial.
+Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
 
 ---
 
