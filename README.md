@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexandre Saldanha 👋
+# Olá, eu sou o Alexandre Saldanha
 
 Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Consumo e Bem-estar**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
 
