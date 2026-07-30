@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexandre Saldanha 👋
 
-Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
+Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Consumo e Bem-estar**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
 
 Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
 
@@ -39,5 +39,5 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 
 ### 📫 Contato & Conexões
 * **LinkedIn:** https://www.linkedin.com/in/alexandre-saldanha-202a8592/
-* **Currículo Lattes:** [buscatexto.cnpq.br/seu-lattes](https://buscatexto.cnpq.br/seu-lattes) *(insira seu link)*
+* **Currículo Lattes:** http://lattes.cnpq.br/5148309722351266
 * **E-mail:** alexandresaldanha711@gmail.com
