@@ -1,43 +1,53 @@
-# Olá, eu sou o Alexandre Saldanha
+# Alexandre Saldanha
 
-Economista e Pesquisador focado em **Macroeconomia Aplicada**, **Consumo e Bem-estar**, **Economia Demográfica** e **Modelagem Quantitativa com Microdados**.
+**Econometria aplicada a microdados de estatísticas públicas** · Consumo, demografia e inovação
 
-Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
+Economista e mestrando em População, Território e Estatísticas Públicas (ENCE/IBGE).
+Bolsista CNPq no IBGE, na PINTEC 2025. Trajetória no IPEA, FGV IBRE, IBGE e TIM Brasil.
 
----
-
-### 🎓 Formação Acadêmica
-* **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
-* **Especialização em Data Science & Analytics** | PUC-Rio
-* **Bacharelado em Ciências Econômicas** | UFRRJ
+Trabalho com inferência a partir de pesquisas domiciliares e empresariais (POF, PNAD Contínua,
+Censo, PINTEC, registros administrativos), sempre respeitando o desenho amostral complexo.
 
 ---
 
-### 🔬 Agenda de Pesquisa & Áreas de Atuação
-* **Macroeconomia & Demografia:** Impactos macroeconômicos e distributivos de choques demográficos sobre a Demanda Agregada, dinâmica do consumo familiar e inflação (IPCA).
-* **Modelagem Quantitativa:** Articulação de heterogeneidade dos agentes e restrições de liquidez com métodos econométricos aplicados.
-* **Microdados & Grandes Bases Publicas:** Análise e tratamento de bases domiciliares e administrativas (`POF`, `PNAD Contínua`, `Censo Demográfico` e registros empresariais).
-* **Trajetória Institucional:** Experiência em órgãos do ecossistema de estatísticas e pesquisas públicas do Brasil, com passagens pelo **IPEA** (Economia da Saúde e Conjuntura Macroeconômica), **FGV IBRE** (Indicadores Econômicos) e **IBGE**.
+### 🔬 Projetos
+
+| Projeto | O que é | Status |
+|---|---|---|
+| **Insegurança alimentar e perfil socioeconômico (POF)** | Análise econométrica dos microdados da POF com desenho amostral | 🚧 em construção |
+| **Amostragem complexa em R** | Rotinas para planos amostrais de pesquisas públicas (conglomerados, estratificação, pesos) | 🚧 em construção |
+
+<!-- Quando cada repositório estiver público, troque o nome em negrito por um link:
+     [**Nome do projeto**](https://github.com/alexandrepsaldanha/nome-do-repo) -->
 
 ---
 
-### 🛠️ Stack Técnica & Ferramental
-* **Linguagens & Análise:** R, Python, SQL, SAS
-* **Modelagem & Métodos:** Econometria Aplicada, Amostragem Complexa, Análise de Cenários Macroeconômicos
-* **Cloud & Big Data:** Google Cloud Platform (GCP / BigQuery)
-* **Ferramentas de Desenvolvimento:** GitHub, Jupyter, Colab, RStudio
+### 🧭 Agenda de pesquisa
+
+- **Demografia e consumo:** efeitos da transição demográfica sobre o consumo das famílias, a demanda agregada e a inflação (IPCA).
+- **Heterogeneidade e restrição de liquidez:** como diferenças entre famílias mudam a resposta do consumo a choques.
+- **Inovação e desenvolvimento regional:** inovação empresarial (PINTEC) e sustentabilidade econômica das UFs.
 
 ---
 
-### 🚀 Projetos & Repositórios de Destaque
-*(Substitua os links abaixo pelos seus repositórios reais conforme for criando)*
+### 🛠️ Ferramentas
 
-* 📊 **[Insegurança Alimentar & Perfil Socioeconômico (POF/IBGE)](https://github.com/alexandrepsaldanha/NOME-DO-REPOSITORIO):** Análise econométrica e quantitativa dos microdados da Pesquisa de Orçamentos Familiares.
-* 📐 **[Técnicas de Amostragem & Inferência Estatística](https://github.com/alexandrepsaldanha/NOME-DO-REPOSITORIO):** Implementação de rotinas para planos amostrais complexos de pesquisas públicas.
+**Linguagens:** R · Python · SQL · SAS
+**Métodos:** econometria aplicada · amostragem complexa · cenários macroeconômicos
+**Dados e BI:** GCP / BigQuery · Power BI
 
 ---
 
-### 📫 Contato & Conexões
-* **LinkedIn:** https://www.linkedin.com/in/alexandre-saldanha-202a8592/
-* **Currículo Lattes:** http://lattes.cnpq.br/5148309722351266
-* **E-mail:** alexandresaldanha711@gmail.com
+### 🎓 Formação
+
+- Mestrado (em curso) em População, Território e Estatísticas Públicas — ENCE/IBGE
+- Especialização em Data Science & Analytics — PUC-Rio
+- Bacharelado em Ciências Econômicas — UFRRJ
+
+---
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/alexandre-saldanha-202a8592/) ·
+[Lattes](http://lattes.cnpq.br/5148309722351266) ·
+[E-mail](mailto:alexandresaldanha711@gmail.com)
