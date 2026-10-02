@@ -25,7 +25,7 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 
 | Projeto | O que é | Status |
 |---|---|---|
-| **Insegurança alimentar e perfil socioeconômico (POF)** | Análise econométrica dos microdados da POF com desenho amostral | 🚧 em construção |
+| [**Insegurança alimentar e perfil socioeconômico (POF)**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Análise dos microdados da POF com plano amostral complexo: perfis da insegurança alimentar e testes de Rao-Scott | ✅ publicado |
 | **Amostragem complexa em R** | Rotinas para planos amostrais de pesquisas públicas (conglomerados, estratificação, pesos) | 🚧 em construção |
 
 <!-- Quando o repositório estiver público, troque o nome em negrito por um link e o status por ✅:
