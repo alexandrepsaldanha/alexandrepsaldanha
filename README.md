@@ -25,6 +25,7 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 
 | Projeto | O que é | Status |
 |---|---|---|
+| [**Determinantes das exportações brasileiras (2000–2021)**](https://github.com/alexandrepsaldanha/determinantes-exportacoes-brasil) | Replicação em Python de artigo próprio: MQO com correção de autocorrelação e análise de robustez | ✅ publicado |
 | [**Insegurança alimentar e perfil socioeconômico (POF)**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Análise dos microdados da POF com plano amostral complexo: perfis da insegurança alimentar e testes de Rao-Scott | ✅ publicado |
 | **Amostragem complexa em R** | Rotinas para planos amostrais de pesquisas públicas (conglomerados, estratificação, pesos) | 🚧 em construção |
 
