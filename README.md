@@ -27,7 +27,7 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 |---|---|---|
 | [**Determinantes das exportações brasileiras (2000–2021)**](https://github.com/alexandrepsaldanha/determinantes-exportacoes-brasil) | Replicação em Python de artigo publicado nos Anais da AKB 2023: MQO com correção de autocorrelação e análise de robustez | ✅ publicado |
 | [**Insegurança alimentar e perfil socioeconômico (POF)**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Análise dos microdados da POF com plano amostral complexo: perfis da insegurança alimentar e testes de Rao-Scott | ✅ publicado |
-| **Amostragem complexa em R** | Rotinas para planos amostrais de pesquisas públicas (conglomerados, estratificação, pesos) | 🚧 em construção |
+| [**Comparação de planos amostrais (Censo 2022)**](https://github.com/alexandrepsaldanha/planos-amostrais-censo2022) | AAS, estratificada (Neyman), conglomerados e PPT sobre o cadastro de 5.570 municípios, com variâncias teóricas conferidas por Monte Carlo | ✅ publicado |
 
 <!-- Quando o repositório estiver público, troque o nome em negrito por um link e o status por ✅:
      [**Nome do projeto**](https://github.com/alexandrepsaldanha/nome-do-repo) -->
