@@ -25,9 +25,9 @@ Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 20
 
 | Projeto | O que é | Status |
 |---|---|---|
-| [**Determinantes das exportações brasileiras (2000–2021)**](https://github.com/alexandrepsaldanha/determinantes-exportacoes-brasil) | Replicação em Python de artigo publicado nos Anais da AKB 2023: MQO com correção de autocorrelação e análise de robustez | ✅ publicado |
-| [**Insegurança alimentar e perfil socioeconômico (POF)**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Análise dos microdados da POF com plano amostral complexo: perfis da insegurança alimentar e testes de Rao-Scott | ✅ publicado |
-| [**Comparação de planos amostrais (Censo 2022)**](https://github.com/alexandrepsaldanha/planos-amostrais-censo2022) | AAS, estratificada (Neyman), conglomerados e PPT sobre o cadastro de 5.570 municípios, com variâncias teóricas conferidas por Monte Carlo | ✅ publicado |
+| [**O que move as exportações brasileiras?**](https://github.com/alexandrepsaldanha/determinantes-exportacoes-brasil) | Commodities, China e câmbio, 2000–2021: replicação em Python de artigo publicado (AKB 2023), com elasticidades e análise de robustez | ✅ publicado |
+| [**Quem passa fome no Brasil?**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Renda, território e insegurança alimentar com os microdados da POF e o plano amostral complexo | ✅ publicado |
+| [**Como medir o saneamento com 800 municípios?**](https://github.com/alexandrepsaldanha/planos-amostrais-censo2022) | Precisão e custo de quatro planos amostrais (AAS, estratificada, conglomerados e PPT) sobre o cadastro do Censo 2022 | ✅ publicado |
 
 <!-- Quando o repositório estiver público, troque o nome em negrito por um link e o status por ✅:
      [**Nome do projeto**](https://github.com/alexandrepsaldanha/nome-do-repo) -->
