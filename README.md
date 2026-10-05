@@ -1,25 +1,32 @@
 # Alexandre Saldanha
 
-**Economista** | **Mestrando (ENCE)** | **Estatísticas Oficiais (IBGE)** | **Econometria & Microdados** | **Survey Data Analysis**
+# Alexandre Saldanha
 
-Atualmente sou **Bolsista CNPq no IBGE** na Pesquisa de Inovação – PINTEC 2025.
+**Economista** | **Pesquisa Econômica Aplicada** | **Econometria & Estatística Oficial**
 
----
+Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2025.
+
+Minha atuação combina pesquisa econômica aplicada, econometria e estatística oficial,
+com experiência em microdados de pesquisas amostrais, registros administrativos e
+indicadores econômicos (IBGE, IPEA, FGV IBRE).
 
 ### 🎓 Formação Acadêmica
-* **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
-* **Especialização em Data Science & Analytics** | PUC-Rio
-* **Bacharelado em Ciências Econômicas** | UFRRJ
-
----
+- **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
+- **Especialização em Data Science & Analytics** | PUC-Rio
+- **Bacharelado em Ciências Econômicas** | UFRRJ
 
 ### 🧭 Agenda de pesquisa
+- **População, território e economia:** efeitos da transição demográfica sobre renda,
+  consumo e condições de vida das famílias, e sua heterogeneidade territorial.
+- **Heterogeneidade e restrição de liquidez:** como diferenças entre famílias mudam a
+  resposta do consumo a choques.
+- **Inovação e desenvolvimento regional:** inovação empresarial e seus vínculos com o
+  desenvolvimento econômico e territorial.
 
-- **Demografia e consumo:** efeitos da transição demográfica sobre o consumo das famílias, a demanda agregada e a inflação (IPCA).
-- **Heterogeneidade e restrição de liquidez:** como diferenças entre famílias mudam a resposta do consumo a choques.
-- **Inovação e desenvolvimento regional:** inovação empresarial (PINTEC) e sustentabilidade econômica das UFs.
-
----
+### 🛠️ Áreas de atuação
+- Conjuntura e indicadores econômicos: inflação, atividade e mercado de trabalho
+- Econometria aplicada e previsão
+- Microdados de pesquisas amostrais e plano amostral complexo
 
 ### 🔬 Projetos
 
