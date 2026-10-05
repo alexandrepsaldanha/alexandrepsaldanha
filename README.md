@@ -30,6 +30,7 @@ indicadores econômicos (IBGE, IPEA, FGV IBRE).
 
 | Projeto | O que é | Status |
 |---|---|---|
+| [**Monitor de inflação: IPCA, contribuições e projeção de curto prazo**](https://github.com/alexandrepsaldanha/monitor-inflacao) | Conjuntura do IPCA atualizada automaticamente: surpresa contra o Focus, contribuição dos grupos e projeção de 12 meses avaliada fora da amostra | 🔄 atualização mensal |
 | [**Determinantes das exportações brasileiras no período 2000 a 2021**](https://github.com/alexandrepsaldanha/determinantes-exportacoes-brasil) | Commodities, China e câmbio, 2000–2021: replicação em Python de artigo publicado (AKB 2023), com elasticidades e análise de robustez | ✅ publicado |
 | [**Insegurança alimentar e perfil socioeconômico no Brasil (POF)**](https://github.com/alexandrepsaldanha/inseguranca-alimentar-pof) | Renda, território e insegurança alimentar com os microdados da POF e o plano amostral complexo | ✅ publicado |
 | [**Comparação teórica de planos amostrais**](https://github.com/alexandrepsaldanha/planos-amostrais-censo2022) | Precisão e custo de quatro planos amostrais (AAS, estratificada, conglomerados e PPT) sobre o cadastro do Censo 2022 | ✅ publicado |
