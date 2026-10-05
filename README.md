@@ -1,7 +1,5 @@
 # Alexandre Saldanha
 
-# Alexandre Saldanha
-
 **Economista** | **Pesquisa Econômica Aplicada** | **Econometria & Estatística Oficial**
 
 Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2025.
