@@ -17,13 +17,6 @@ indicadores econômicos (IBGE, IPEA, FGV IBRE).
 Minha pesquisa aplicada investiga como renda, trabalho, preços e consumo condicionam o bem-estar
 das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural do ciclo de vida.
 
-- **População, território e economia:** efeitos da transição demográfica sobre renda,
-  consumo e condições de vida das famílias, e sua heterogeneidade territorial.
-- **Heterogeneidade e restrição de liquidez:** como diferenças entre famílias mudam a
-  resposta do consumo a choques.
-- **Inovação e desenvolvimento regional:** inovação empresarial e seus vínculos com o
-  desenvolvimento econômico e territorial.
-
 ### 🛠️ Áreas de atuação
 - Conjuntura e indicadores econômicos: inflação, atividade e mercado de trabalho
 - Econometria aplicada e previsão
