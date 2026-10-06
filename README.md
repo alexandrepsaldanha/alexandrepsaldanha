@@ -4,10 +4,6 @@
 
 Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2025.
 
-Minha atuação combina pesquisa econômica aplicada, econometria e estatística oficial,
-com experiência em microdados de pesquisas amostrais, registros administrativos e
-indicadores econômicos (IBGE, IPEA, FGV IBRE).
-
 ### 🎓 Formação Acadêmica
 - **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
 - **Especialização em Data Science & Analytics** | PUC-Rio
