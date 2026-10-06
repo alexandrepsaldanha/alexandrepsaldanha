@@ -4,19 +4,9 @@
 
 Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2025.
 
-### 🎓 Formação Acadêmica
-- **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
-- **Especialização em Data Science & Analytics** | PUC-Rio
-- **Bacharelado em Ciências Econômicas** | UFRRJ
-
 ### 🧭 Agenda de pesquisa
 Minha pesquisa aplicada investiga como renda, trabalho, preços e consumo condicionam o bem-estar
 das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural do ciclo de vida.
-
-### 🛠️ Áreas de atuação
-- Conjuntura e indicadores econômicos: inflação, mercado de trabalho e indicadores de confiança setoriais
-- Econometria aplicada e previsão
-- Microdados de pesquisas domiciliares (POF, PNAD Contínua, Censo) e plano amostral complexo
 
 ### 🔬 Projetos
 
@@ -31,6 +21,16 @@ das famílias brasileiras, combinando análise conjuntural com uma perspectiva e
      [**Nome do projeto**](https://github.com/alexandrepsaldanha/nome-do-repo) -->
 
 ---
+
+### 📊 Áreas de atuação
+- Conjuntura e indicadores econômicos: inflação, mercado de trabalho e indicadores de confiança setoriais
+- Econometria aplicada e previsão
+- Microdados de pesquisas domiciliares (POF, PNAD Contínua, Censo) e plano amostral complexo
+
+### 🎓 Formação Acadêmica
+- **Mestrando em População, Território e Estatísticas Públicas** | ENCE / IBGE
+- **Especialização em Data Science & Analytics** | PUC-Rio
+- **Bacharelado em Ciências Econômicas** | UFRRJ
 
 ### 🛠️ Ferramentas
 
