@@ -18,9 +18,9 @@ Minha pesquisa aplicada investiga como renda, trabalho, preços e consumo condic
 das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural do ciclo de vida.
 
 ### 🛠️ Áreas de atuação
-- Conjuntura e indicadores econômicos: inflação, atividade e mercado de trabalho
+- Conjuntura e indicadores econômicos: inflação, mercado de trabalho e indicadores de confiança setoriais
 - Econometria aplicada e previsão
-- Microdados de pesquisas amostrais e plano amostral complexo
+- Microdados de pesquisas domiciliares (POF, PNAD Contínua, Censo) e plano amostral complexo
 
 ### 🔬 Projetos
 
@@ -39,7 +39,6 @@ das famílias brasileiras, combinando análise conjuntural com uma perspectiva e
 ### 🛠️ Ferramentas
 
 - **Linguagens:** R · Python · SQL · SAS
-- **Métodos:** econometria aplicada · amostragem complexa · cenários macroeconômicos
 - **Dados e BI:** GCP / BigQuery · Power BI
 
 ---
