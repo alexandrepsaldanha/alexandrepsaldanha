@@ -5,7 +5,7 @@
 Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2025.
 
 ### 🧭 Agenda de pesquisa
-Minha pesquisa aplicada investiga como renda, trabalho, preços e consumo condicionam o bem-estar
+Minha agenda de pesquisa investiga como renda, trabalho, preços e consumo condicionam o bem-estar
 das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural do ciclo de vida.
 
 ### 🔬 Projetos
