@@ -6,7 +6,7 @@ Atualmente sou **Bolsista CNPq no IBGE**, na Pesquisa de Inovação – PINTEC 2
 
 ### 🧭 Agenda de pesquisa
 Minha agenda de pesquisa investiga como renda, trabalho, preços e consumo condicionam o bem-estar
-das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural do ciclo de vida.
+das famílias brasileiras, combinando análise conjuntural com uma perspectiva estrutural.
 
 ### 🔬 Projetos
 
