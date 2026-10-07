@@ -24,7 +24,7 @@ das famílias brasileiras, combinando análise conjuntural com uma perspectiva e
 ---
 
 ### 📊 Áreas de atuação
-- Conjuntura e indicadores econômicos: inflação, mercado de trabalho e indicadores de confiança setoriais
+- Conjuntura e indicadores econômicos: inflação, mercado de trabalho e indicadores setoriais
 - Econometria aplicada e previsão
 - Microdados de pesquisas domiciliares (POF, PNAD Contínua, Censo) e plano amostral complexo
 
